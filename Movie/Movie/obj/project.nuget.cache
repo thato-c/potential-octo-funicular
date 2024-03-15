@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "v+Lp5+dUL0U4wQXclEV57gWDDhnmSsHAa84gfmQJ0I3N3BlCy4XQqL8/bg8ulbQPn3gwAIttGBrtYaUL7PFFTA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tchit\\OneDrive\\potential-octo-funicular\\Movie\\Movie\\Movie.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tchit\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\tchit\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\tchit\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\tchit\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\tchit\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\tchit\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
